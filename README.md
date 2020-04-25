@@ -11,15 +11,38 @@ variety of languages and technologies.
 
 Front-end
 
-- [Typescript](#typescript)
+- [CSS](#css)
+- [HTML](#html)
 - [Javascript](#javascript)
 - [React](#react)
+- [React Redux](#react-redux)
 - [React Animation](#react-animation)
-- [HTML](#html)
-- [CSS](#css)
+- [Typescript](#typescript)
 
 Backend
 
-- [Elixir](elixir)
 - [C-Sharp](#c-sharp)
-- [Postgres](#postgres)
+- [Elixir](elixir)
+- [PostgreSQL](#postgresql)
+
+### CSS
+
+### HTML
+
+### Javascript
+
+### React
+
+### React Redux
+
+### React Animation
+
+### Typescript
+
+### C-Sharp
+
+### Elixir
+
+- [All Values For A Key In A Keyword List](elixir/1.md)
+
+### PostgreSQL
