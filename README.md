@@ -25,15 +25,30 @@ Backend
 - [Elixir](elixir)
 - [PostgreSQL](#postgresql)
 
+
+Random Readings
+
+- [Articles](#articles)
+
+### Articles
+
+- [International Phone Number Format](https://www.cm.com/blog/how-to-format-international-telephone-numbers/)
+
 ### CSS
 
 ### HTML
 
 ### Javascript
 
+- [Append Item to array](javascript/1.md)
+
 ### React
 
+- [Capture Click Handlers](react/capture-click.md)
+
 ### React Redux
+
+- [Learning about plain Redux](https://github.com/Mudassar045/redux-learn)
 
 ### React Animation
 
