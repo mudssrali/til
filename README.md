@@ -22,9 +22,8 @@ Front-end
 Backend
 
 - [C-Sharp](#c-sharp)
-- [Elixir](elixir)
+- [Elixir](#elixir)
 - [PostgreSQL](#postgresql)
-
 
 Random Readings
 
@@ -36,11 +35,16 @@ Random Readings
 
 ### CSS
 
+- [Wiring-up tailwind.css](https://github.com/Mudassar045/tailwindcss-components)
+
 ### HTML
+
+- [Change image on change prefers-color-scheme](html/1.md)
 
 ### Javascript
 
 - [Append Item to array](javascript/1.md)
+- [Map can have empty-string, null or undefined as key](javascript/2.md)
 
 ### React
 
