@@ -36,6 +36,7 @@ Random Readings
 ### CSS
 
 - [Wiring-up tailwind.css](https://github.com/Mudassar045/tailwindcss-components)
+- [Tailwindcss responsiveness](https://tailwindcss.com/docs/responsive-design)
 
 ### HTML
 
@@ -57,6 +58,8 @@ Random Readings
 ### React Animation
 
 ### Typescript
+
+- [Discriminated Unions](https://github.com/Mudassar045/typescript-cheatsheet#discriminated-unions)
 
 ### C-Sharp
 
