@@ -40,7 +40,9 @@ Random Readings
 
 - [Wiring-up tailwind.css](https://github.com/Mudassar045/tailwindcss-components)
 - [Tailwindcss responsiveness](https://tailwindcss.com/docs/responsive-design)
-- [Smooth scrolling using css]()
+- [Smooth scrolling using css](css/1.md)
+- [Tailwindcss - Pseudo Class variants](https://tailwindcss.com/docs/pseudo-class-variants)
+- [Tailwindcss - Adding base styles](https://tailwindcss.com/docs/adding-base-styles)
 
 ### HTML
 
@@ -51,6 +53,7 @@ Random Readings
 - [Append Item to array](javascript/1.md)
 - [Map can have empty-string, null or undefined as key](javascript/2.md)
 - [cond-flow, lodash _cond | Elixir cond replication](https://github.com/erikmueller/cond-flow)
+- [learn about jest - javascript and typescript test-runner](https://github.com/mudassar045/cond-construct)
 
 ### React
 
@@ -80,5 +83,6 @@ Random Readings
 - [Concurrency Primitives - Concurrency Principles](https://github.com/Mudassar045/iexSmix#concurrency-principles)
 - [case cond](https://elixir-lang.org/getting-started/case-cond-and-if.html#cond)
 - [Concurrency Primitives - Creating process](https://github.com/Mudassar045/iexSmix#working-with-processes)
+- [Concurrency Primitives - Message passing](https://github.com/Mudassar045/iexSmix#message-passing)
 
 ### PostgreSQL
