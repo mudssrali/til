@@ -35,6 +35,7 @@ Random Readings
 - [The first modern pandemic (short read)](https://www.gatesnotes.com/Health/Innovation-for-COVID)
 - [Android SMS Limit-1](https://android.googlesource.com/platform/frameworks/base/+/master/telephony/java/android/telephony/SmsMessage.java)
 - [Android SMS Limit-2](https://developer.android.com/reference/kotlin/android/telephony/SmsMessage)
+- [CircleCi overview](https://circleci.com/docs/2.0/about-circleci/)
 
 ### CSS
 
@@ -54,6 +55,7 @@ Random Readings
 - [Map can have empty-string, null or undefined as key](javascript/2.md)
 - [cond-flow, lodash _cond | Elixir cond replication](https://github.com/erikmueller/cond-flow)
 - [learn about jest - javascript and typescript test-runner](https://github.com/mudassar045/cond-construct)
+- [Publish npm package](https://www.npmjs.com/package/cond-construct)
 
 ### React
 
