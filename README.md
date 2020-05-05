@@ -62,6 +62,7 @@ Random Readings
 - [Capture Click Handlers](react/capture-click.md)
 - [Learn to use react-pdf-renderer to generate pdfs](https://github.com/diegomura/react-pdf/)
 - [Learn to use react-pdf to view pdf file in react-app](https://github.com/wojtekmaj/react-pdf)
+- [Building and deploying Next.js app on Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
 
 ### React Redux
 
@@ -71,6 +72,7 @@ Random Readings
 ### React Animation
 
 - [Know the basics of Bespoke](https://github.com/bespokejs/bespoke)
+- [React Spring - Trails API](https://www.react-spring.io/docs/hooks/use-trail)
 
 ### Typescript
 
@@ -86,5 +88,7 @@ Random Readings
 - [case cond](https://elixir-lang.org/getting-started/case-cond-and-if.html#cond)
 - [Concurrency Primitives - Creating process](https://github.com/Mudassar045/iexSmix#working-with-processes)
 - [Concurrency Primitives - Message passing](https://github.com/Mudassar045/iexSmix#message-passing)
+- [Concurrency Primitives - Synchronous Sending of Messages](https://github.com/Mudassar045/iexSmix#synchronous-sending)
+- [Phoenix Framework with LiveView](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5)
 
 ### PostgreSQL
