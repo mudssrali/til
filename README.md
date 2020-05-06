@@ -36,6 +36,8 @@ Random Readings
 - [Android SMS Limit-1](https://android.googlesource.com/platform/frameworks/base/+/master/telephony/java/android/telephony/SmsMessage.java)
 - [Android SMS Limit-2](https://developer.android.com/reference/kotlin/android/telephony/SmsMessage)
 - [CircleCi overview](https://circleci.com/docs/2.0/about-circleci/)
+- [Share like a native app with the Web Share API](https://web.dev/web-share/)
+- [Getting Started - Chrome Extensions](https://developer.chrome.com/extensions/getstarted)
 
 ### CSS
 
@@ -44,6 +46,7 @@ Random Readings
 - [Smooth scrolling using css](css/1.md)
 - [Tailwindcss - Pseudo Class variants](https://tailwindcss.com/docs/pseudo-class-variants)
 - [Tailwindcss - Adding base styles](https://tailwindcss.com/docs/adding-base-styles)
+- [Preventing Page Scrolling on Modal Popup](https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/)
 
 ### HTML
 
