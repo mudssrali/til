@@ -38,6 +38,8 @@ Random Readings
 - [CircleCi overview](https://circleci.com/docs/2.0/about-circleci/)
 - [Share like a native app with the Web Share API](https://web.dev/web-share/)
 - [Getting Started - Chrome Extensions](https://developer.chrome.com/extensions/getstarted)
+- [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
+- [Process pools with Elixir's Registry](https://andrealeopardi.com/posts/process-pools-with-elixirs-registry/)
 
 ### CSS
 
@@ -93,5 +95,6 @@ Random Readings
 - [Concurrency Primitives - Message passing](https://github.com/Mudassar045/iexSmix#message-passing)
 - [Concurrency Primitives - Synchronous Sending of Messages](https://github.com/Mudassar045/iexSmix#synchronous-sending)
 - [Phoenix Framework with LiveView](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5)
+-	[Concurrency Primitives - Stateful Server Process](https://github.com/Mudassar045/iexSmix#53-stateful-server-processes)
 
 ### PostgreSQL
