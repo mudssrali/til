@@ -96,5 +96,7 @@ Random Readings
 - [Concurrency Primitives - Synchronous Sending of Messages](https://github.com/Mudassar045/iexSmix#synchronous-sending)
 - [Phoenix Framework with LiveView](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5)
 -	[Concurrency Primitives - Stateful Server Process](https://github.com/Mudassar045/iexSmix#53-stateful-server-processes)
+- [Registry](https://hexdocs.pm/elixir/Registry.html)
+- [Concurrency Primitives - Keeping a process state](https://github.com/Mudassar045/iexSmix#keeping-a-process-state)
 
 ### PostgreSQL
