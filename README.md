@@ -40,6 +40,13 @@ Random Readings
 - [Getting Started - Chrome Extensions](https://developer.chrome.com/extensions/getstarted)
 - [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 - [Process pools with Elixir's Registry](https://andrealeopardi.com/posts/process-pools-with-elixirs-registry/)
+- [Rebuilding our tech stack for the new Facebook.com - IMP](https://engineering.fb.com/web/facebook-redesign/)
+-[Designing very large (JavaScript) applications - IMP](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+
+### Unread Articles
+
+- [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+- [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
 
 ### CSS
 
@@ -98,5 +105,6 @@ Random Readings
 -	[Concurrency Primitives - Stateful Server Process](https://github.com/Mudassar045/iexSmix#53-stateful-server-processes)
 - [Registry](https://hexdocs.pm/elixir/Registry.html)
 - [Concurrency Primitives - Keeping a process state](https://github.com/Mudassar045/iexSmix#keeping-a-process-state)
+- [Concurrency Primitives - Learn Mutable Process State](https://github.com/Mudassar045/iexSmix#mutable-state)
 
 ### PostgreSQL
