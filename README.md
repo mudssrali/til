@@ -41,12 +41,16 @@ Random Readings
 - [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 - [Process pools with Elixir's Registry](https://andrealeopardi.com/posts/process-pools-with-elixirs-registry/)
 - [Rebuilding our tech stack for the new Facebook.com - IMP](https://engineering.fb.com/web/facebook-redesign/)
--[Designing very large (JavaScript) applications - IMP](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+- [Designing very large (JavaScript) applications - IMP](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
 ### Unread Articles
 
+- [Hoisting in Javascript](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
+- [Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
+- [Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html)
+- [The melting pot of JavaScript](https://increment.com/development/the-melting-pot-of-javascript/)
 
 ### CSS
 
@@ -68,6 +72,9 @@ Random Readings
 - [cond-flow, lodash _cond | Elixir cond replication](https://github.com/erikmueller/cond-flow)
 - [learn about jest - javascript and typescript test-runner](https://github.com/mudassar045/cond-construct)
 - [Publish npm package](https://www.npmjs.com/package/cond-construct)
+- [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- [What is closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 ### React
 
@@ -75,6 +82,7 @@ Random Readings
 - [Learn to use react-pdf-renderer to generate pdfs](https://github.com/diegomura/react-pdf/)
 - [Learn to use react-pdf to view pdf file in react-app](https://github.com/wojtekmaj/react-pdf)
 - [Building and deploying Next.js app on Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
+- [Learning about RBAC](./react/rbac.md)
 
 ### React Redux
 
