@@ -15,6 +15,7 @@ Front-end
 - [HTML](#html)
 - [Javascript](#javascript)
 - [React](#react)
+- [React Router](#react-router)
 - [React Redux](#react-redux)
 - [React Animation](#react-animation)
 - [Typescript](#typescript)
@@ -83,6 +84,11 @@ Random Readings
 - [Learn to use react-pdf to view pdf file in react-app](https://github.com/wojtekmaj/react-pdf)
 - [Building and deploying Next.js app on Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
 - [Learning about RBAC](./react/rbac.md)
+- [userMemo Hook](./useMemo.md)
+
+### React Router
+
+- [useParams](https://reacttraining.com/blog/react-router-v5-1/#useparams)
 
 ### React Redux
 
