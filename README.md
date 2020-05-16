@@ -104,6 +104,7 @@ Random Readings
 
 - [Discriminated Unions](https://github.com/Mudassar045/typescript-cheatsheet#discriminated-unions)
 - [Typescript 3.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9-beta)
+- [// @ts-expect-error](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html)
 
 ### C-Sharp
 
@@ -120,5 +121,7 @@ Random Readings
 - [Registry](https://hexdocs.pm/elixir/Registry.html)
 - [Concurrency Primitives - Keeping a process state](https://github.com/Mudassar045/iexSmix#keeping-a-process-state)
 - [Concurrency Primitives - Learn Mutable Process State](https://github.com/Mudassar045/iexSmix#mutable-state)
+- [GenServer - Basic implementation](https://github.com/Mudassar045/iexSmix#chapter-6-generic-server-processes)
+- [`Import` vs `use`](https://stackoverflow.com/questions/28491306/elixir-use-vs-import?rq=1)
 
 ### PostgreSQL
