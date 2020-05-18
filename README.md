@@ -43,11 +43,12 @@ Random Readings
 - [Process pools with Elixir's Registry](https://andrealeopardi.com/posts/process-pools-with-elixirs-registry/)
 - [Rebuilding our tech stack for the new Facebook.com - IMP](https://engineering.fb.com/web/facebook-redesign/)
 - [Designing very large (JavaScript) applications - IMP](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+- [Hoisting in Javascript](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
+- [Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+- [C4-Architecture Model](https://www.infoq.com/articles/C4-architecture-model/)
 
 ### Unread Articles
 
-- [Hoisting in Javascript](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
-- [Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
 - [Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html)
@@ -123,5 +124,7 @@ Random Readings
 - [Concurrency Primitives - Learn Mutable Process State](https://github.com/Mudassar045/iexSmix#mutable-state)
 - [GenServer - Basic implementation](https://github.com/Mudassar045/iexSmix#chapter-6-generic-server-processes)
 - [`Import` vs `use`](https://stackoverflow.com/questions/28491306/elixir-use-vs-import?rq=1)
+- [Application Behaviour](https://hexdocs.pm/elixir/Application.html)
+- [Append To A Keyword List](elixir/append-to-a-keyword-list)
 
 ### PostgreSQL
