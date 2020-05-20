@@ -46,6 +46,7 @@ Random Readings
 - [Hoisting in Javascript](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
 - [Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [C4-Architecture Model](https://www.infoq.com/articles/C4-architecture-model/)
+- [How to Start Freelancing (The Basics)](https://dev.to/study_web_dev/how-to-start-freelancing-the-basics-52d7)
 
 ### Unread Articles
 
@@ -125,6 +126,7 @@ Random Readings
 - [GenServer - Basic implementation](https://github.com/Mudassar045/iexSmix#chapter-6-generic-server-processes)
 - [`Import` vs `use`](https://stackoverflow.com/questions/28491306/elixir-use-vs-import?rq=1)
 - [Application Behaviour](https://hexdocs.pm/elixir/Application.html)
-- [Append To A Keyword List](elixir/append-to-a-keyword-list)
+- [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
+- [Count the currently running process](elixir/2.md)
 
 ### PostgreSQL
