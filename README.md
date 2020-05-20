@@ -45,8 +45,9 @@ Random Readings
 - [Designing very large (JavaScript) applications - IMP](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 - [Hoisting in Javascript](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
 - [Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
-- [C4-Architecture Model](https://www.infoq.com/articles/C4-architecture-model/)
-- [How to Start Freelancing (The Basics)](https://dev.to/study_web_dev/how-to-start-freelancing-the-basics-52d7)
+- [C4-Architecture Model - `IMP`](https://www.infoq.com/articles/C4-architecture-model/)
+- [How to Start Freelancing (The Basics) - `IMP`](https://dev.to/study_web_dev/how-to-start-freelancing-the-basics-52d7)
+- [Modern Touch-Friendly Design - `IMP`](https://addyosmani.com/blog/touch-friendly-design/)
 
 ### Unread Articles
 
