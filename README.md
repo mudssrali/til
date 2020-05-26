@@ -48,6 +48,7 @@ Random Readings
 - [C4-Architecture Model - `IMP`](https://www.infoq.com/articles/C4-architecture-model/)
 - [How to Start Freelancing (The Basics) - `IMP`](https://dev.to/study_web_dev/how-to-start-freelancing-the-basics-52d7)
 - [Modern Touch-Friendly Design - `IMP`](https://addyosmani.com/blog/touch-friendly-design/)
+- [Dynamic Imports in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
 ### Unread Articles
 
@@ -79,6 +80,7 @@ Random Readings
 - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 - [What is closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Dynamic Imports](javascript/dynamic-imports.md)
 
 ### React
 
