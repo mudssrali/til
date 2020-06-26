@@ -49,6 +49,8 @@ Random Readings
 - [How to Start Freelancing (The Basics) - `IMP`](https://dev.to/study_web_dev/how-to-start-freelancing-the-basics-52d7)
 - [Modern Touch-Friendly Design - `IMP`](https://addyosmani.com/blog/touch-friendly-design/)
 - [Dynamic Imports in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [First Class Function - `IMP`](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
+- [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 
 ### Unread Articles
 
@@ -131,5 +133,6 @@ Random Readings
 - [Application Behaviour](https://hexdocs.pm/elixir/Application.html)
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 - [Count the currently running process](elixir/2.md)
+- [Concatenate two list](elixir/3.md)
 
 ### PostgreSQL
