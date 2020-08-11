@@ -83,6 +83,7 @@ Random Readings
 - [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 - [What is closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [Dynamic Imports](javascript/dynamic-imports.md)
+- [Javascript - Introduction to Events](https://www.quirksmode.org/js/introevents.html)
 
 ### React
 
