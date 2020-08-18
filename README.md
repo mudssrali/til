@@ -84,6 +84,8 @@ Random Readings
 - [What is closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [Dynamic Imports](javascript/dynamic-imports.md)
 - [Javascript - Introduction to Events](https://www.quirksmode.org/js/introevents.html)
+- [https://www.quirksmode.org/js/events_order.html](Event order)
+- [Object.is()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is#Description)
 
 ### React
 
@@ -92,8 +94,8 @@ Random Readings
 - [Learn to use react-pdf to view pdf file in react-app](https://github.com/wojtekmaj/react-pdf)
 - [Building and deploying Next.js app on Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
 - [Learning about RBAC](./react/rbac.md)
-- [userMemo Hook](./useMemo.md)
-
+- [useMemo Hook](./useMemo.md)
+- [Implement useState with useReducer](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
 ### React Router
 
 - [useParams](https://reacttraining.com/blog/react-router-v5-1/#useparams)
