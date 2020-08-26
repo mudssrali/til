@@ -137,5 +137,6 @@ Random Readings
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 - [Count the currently running process](elixir/2.md)
 - [Concatenate two list](elixir/3.md)
+- [IO.inspect OPts](elixir/4.md)
 
 ### PostgreSQL
