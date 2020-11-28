@@ -67,6 +67,7 @@ Random Readings
 - [Tailwindcss - Pseudo Class variants](https://tailwindcss.com/docs/pseudo-class-variants)
 - [Tailwindcss - Adding base styles](https://tailwindcss.com/docs/adding-base-styles)
 - [Preventing Page Scrolling on Modal Popup](https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/)
+- [CSS Marker for <li>](https://web.dev/css-marker-pseudo-element/)
 
 ### HTML
 
