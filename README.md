@@ -139,5 +139,6 @@ Random Readings
 - [Count the currently running process](elixir/2.md)
 - [Concatenate two list](elixir/3.md)
 - [IO.inspect OPts](elixir/4.md)
+- [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
 
 ### PostgreSQL
