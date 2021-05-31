@@ -142,3 +142,7 @@ Random Readings
 - [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
 
 ### PostgreSQL
+  
+### GraphQL
+
+- [Graphql with Node, MySQL, Apollo and ReactJS](https://subscription.packtpub.com/video/web_development/9781838823009)
