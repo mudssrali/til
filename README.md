@@ -140,6 +140,8 @@ Random Readings
 - [Concatenate two list](elixir/3.md)
 - [IO.inspect OPts](elixir/4.md)
 - [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
+- [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
+  
 
 ### PostgreSQL
   
