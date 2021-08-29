@@ -19,6 +19,7 @@ Front-end
 - [React Redux](#react-redux)
 - [React Animation](#react-animation)
 - [Typescript](#typescript)
+- [AI-Google Blog](#ai-google-blog)
 
 Backend
 
@@ -147,5 +148,8 @@ Random Readings
 ### PostgreSQL
   
 ### GraphQL
-
 - [Graphql with Node, MySQL, Apollo and ReactJS](https://subscription.packtpub.com/video/web_development/9781838823009)
+
+### AI-Google Blog
+
+- [The C4_200M Synthetic Dataset for Grammatical Error Correction](https://ai.googleblog.com/2021/08/the-c4200m-synthetic-dataset-for.html)
