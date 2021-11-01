@@ -96,7 +96,7 @@ Random Readings
 - [Javascript - Introduction to Events](https://www.quirksmode.org/js/introevents.html)
 - [https://www.quirksmode.org/js/events_order.html](Event order)
 - [Object.is()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is#Description)
-
+- [Read files in JavaScript](https://web.dev/read-files/)
 ### React
 
 - [Capture Click Handlers](react/capture-click.md)
@@ -157,6 +157,7 @@ Random Readings
 - [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 - [Robust job processing in Elixir, backed by modern PostgreSQL](https://github.com/sorentwo/oban)
 - [Announcing Delta for Elixir](https://slab.com/blog/announcing-delta-for-elixir/)
+- [Elixir Best Practices - Deeply Nested Maps](https://dockyard.com/blog/2016/02/01/elixir-best-practices-deeply-nested-maps)
 ### PostgreSQL
   
 ### GraphQL
