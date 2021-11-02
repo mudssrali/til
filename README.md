@@ -53,6 +53,10 @@ Random Readings
 - [First Class Function - `IMP`](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 - [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 
+- [What is a progressive JPEG?](https://www.liquidweb.com/kb/what-is-a-progressive-jpeg/)
+
+- [The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
+
 ### Unread Articles
 
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
@@ -142,7 +146,6 @@ Random Readings
 - [IO.inspect OPts](elixir/4.md)
 - [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
 - [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
-- [What is a progressive JPEG?](https://www.liquidweb.com/kb/what-is-a-progressive-jpeg/)
   
 
 ### PostgreSQL
