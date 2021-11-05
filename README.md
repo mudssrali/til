@@ -53,6 +53,7 @@ Random Readings
 - [First Class Function - `IMP`](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 - [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 - [Symmetric key encryption and decryption in cryptography: A Study of Fernet algorithm](https://topic.alibabacloud.com/a/symmetric-font-colorredkeyfont-encryption-and-decryption-in-cryptography-a-study-of-fernet-algorithm_8_8_30274822.html)
+- [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4)
 
 - [What is a progressive JPEG?](https://www.liquidweb.com/kb/what-is-a-progressive-jpeg/)
 
