@@ -52,6 +52,7 @@ Random Readings
 - [Dynamic Imports in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 - [First Class Function - `IMP`](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 - [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
+- [Symmetric key encryption and decryption in cryptography: A Study of Fernet algorithm](https://topic.alibabacloud.com/a/symmetric-font-colorredkeyfont-encryption-and-decryption-in-cryptography-a-study-of-fernet-algorithm_8_8_30274822.html)
 
 - [What is a progressive JPEG?](https://www.liquidweb.com/kb/what-is-a-progressive-jpeg/)
 
@@ -148,6 +149,10 @@ Random Readings
 - [Concatenate two list](elixir/3.md)
 - [IO.inspect OPts](elixir/4.md)
 - [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
+- [Generate signature in Elixir and PHP using hmac](https://stackoverflow.com/questions/32601860/generate-signature-in-elixir-and-php-using-hmac)
+- [Is there any way to send a string from Elixir to PHP securely?(no SSL)](https://stackoverflow.com/questions/34845437/is-there-any-way-to-send-a-string-from-elixir-to-php-securelyno-ssl)
+- [Cowboy-Session Secure ERL](https://github.com/spawngrid/cowboy_session/blob/master/src/cowboy_session_secure.erl#L63)
+
 - [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 - [Robust job processing in Elixir, backed by modern PostgreSQL](https://github.com/sorentwo/oban)
 - [Announcing Delta for Elixir](https://slab.com/blog/announcing-delta-for-elixir/)
