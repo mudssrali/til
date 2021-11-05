@@ -57,6 +57,8 @@ Random Readings
 
 - [The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
 
+- [Operational transformation](https://en.wikipedia.org/wiki/Operational_transformation)
+
 ### Unread Articles
 
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
@@ -147,7 +149,7 @@ Random Readings
 - [Processing Large CSV files with Elixir Streams](https://www.poeticoding.com/processing-large-csv-files-with-elixir-streams/)
 - [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 - [Robust job processing in Elixir, backed by modern PostgreSQL](https://github.com/sorentwo/oban)
-
+- [Announcing Delta for Elixir](https://slab.com/blog/announcing-delta-for-elixir/)
 ### PostgreSQL
   
 ### GraphQL
