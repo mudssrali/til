@@ -123,6 +123,7 @@ Random Readings
 - [Discriminated Unions](https://github.com/Mudassar045/typescript-cheatsheet#discriminated-unions)
 - [Typescript 3.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9-beta)
 - [// @ts-expect-error](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html)
+- [TypeScript Next.js Cheat Sheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/)
 
 ### C-Sharp
 
