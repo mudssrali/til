@@ -158,6 +158,16 @@ Random Readings
 - [Robust job processing in Elixir, backed by modern PostgreSQL](https://github.com/sorentwo/oban)
 - [Announcing Delta for Elixir](https://slab.com/blog/announcing-delta-for-elixir/)
 - [Elixir Best Practices - Deeply Nested Maps](https://dockyard.com/blog/2016/02/01/elixir-best-practices-deeply-nested-maps)
+
+- [Syn - global Process Registry and Process Group manager](https://github.com/ostinelli/syn)
+
+    Related Links:
+    - [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+    - [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+    - [Atomicity_(database_systems)](https://en.wikipedia.org/wiki/Atomicity_(database_systems))
+    - [Leader Election](https://en.wikipedia.org/wiki/Leader_election)
+    - [Erlang - Global](https://www.erlang.org/doc/man/global.html)
+    - [Erlang - pg](https://www.erlang.org/doc/man/pg.html)
 ### PostgreSQL
   
 ### GraphQL
