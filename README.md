@@ -60,6 +60,7 @@ Random Readings
 - [The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
 
 - [Operational transformation](https://en.wikipedia.org/wiki/Operational_transformation)
+- [OO - Dynamic Dispatch](https://en.wikipedia.org/wiki/Dynamic_dispatch)
 
 ### Unread Articles
 
