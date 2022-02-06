@@ -169,6 +169,9 @@ Random Readings
     - [Leader Election](https://en.wikipedia.org/wiki/Leader_election)
     - [Erlang - Global](https://www.erlang.org/doc/man/global.html)
     - [Erlang - pg](https://www.erlang.org/doc/man/pg.html)
+- [GenStage - How Discord handles push request bursts of over a million per minute](https://blog.discord.com/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4)
+- [Delivering social change with Elixir at Change.org](https://elixir-lang.org/blog/2020/10/27/delivering-social-change-with-elixir-at-change.org/)
+- [Broadway - Change.org - Our Elixir Bandit Service](https://medium.com/making-change-org/our-elixir-bandit-service-e2b6af6eebc4)
 ### PostgreSQL
   
 ### GraphQL
