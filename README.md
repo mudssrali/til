@@ -61,6 +61,7 @@ Random Readings
 
 - [Operational transformation](https://en.wikipedia.org/wiki/Operational_transformation)
 - [OO - Dynamic Dispatch](https://en.wikipedia.org/wiki/Dynamic_dispatch)
+- [The components of a URL](https://www.ibm.com/docs/en/cics-ts/5.2?topic=concepts-components-url)
 
 ### Unread Articles
 
