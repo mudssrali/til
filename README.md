@@ -181,3 +181,7 @@ Random Readings
 ### AI-Google Blog
 
 - [The C4_200M Synthetic Dataset for Grammatical Error Correction](https://ai.googleblog.com/2021/08/the-c4200m-synthetic-dataset-for.html)
+
+### System Architecture & Desing
+- [Top 7 Ways to 10x Your API Performance](https://www.youtube.com/watch?v=zvWKqUiovAM)
+- [Session Vs JWT: The Differences You May Not Know!](https://www.youtube.com/watch?v=fyTxwIa-1U0)
